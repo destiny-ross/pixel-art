@@ -39,7 +39,7 @@ function makeGrid() {
 
 // adds the click event to the submit button
 submitButton.addEventListener("click", (event) => {
-  //prevent default to prevent browser from sending http request to the server
+  // prevent default to prevent browser from sending http request to the server
   event.preventDefault();
   makeGrid();
 });
