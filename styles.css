@@ -44,7 +44,6 @@ tr {
 td {
   width: 30px;
   background-color: #fff;
-
   cursor: url("pen.png") 0 30, pointer;
 }
 
